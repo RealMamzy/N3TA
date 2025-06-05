@@ -8,4 +8,4 @@ All source code, designs, documentation, and associated assets are the **origina
 
 Unauthorized reproduction, redistribution, or commercial use of this project or any of its components without explicit permission is strictly prohibited.
 
-&copy; 2023–2025 Dhman Zenghila. All rights reserved.
+&copy; 2023–2025 Dhimam Zenghila. All rights reserved.
